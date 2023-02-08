@@ -3,8 +3,7 @@
 
 Terraform to build s3
 
-## 🚀 About Me
-I'm a DevOps Engineer ...
+
 
 
 ## PreRequestes
@@ -29,3 +28,5 @@ terraform plan
 
 terraform apply
 ```
+## 🚀 About Me
+I'm a DevOps Engineer ...
